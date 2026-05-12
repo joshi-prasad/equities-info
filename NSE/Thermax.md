@@ -156,7 +156,7 @@ Thermax is not supplying IT hardware; it is supplying the critical utility infra
 *   **Energy/Boiler Solutions:** Increasingly, Thermax is also supplying large utility boilers and steam-turbine-based energy solutions to power data centers.
 
 **Why data centers need Thermax:**
-Modern hyperscale data centers (especially AI-driven ones) consume massive amounts of power and generate immense heat. In developed markets like North America, many data centers are transitioning to on-site captive power generation using gas turbines. These turbines generate massive amounts of waste heat. Thermax’s unique technology captures this waste heat to drive its chilling systems, effectively solving the cooling problem using the exhaust of the power problem.
+Modern hyperscale data centers (especially AI-driven ones) consume massive amounts of power and generate immense heat. In developed markets like North America, many ***__data centers are transitioning to on-site captive power generation using gas turbines. These turbines generate massive amounts of waste heat. Thermax’s unique technology captures this waste heat to drive its chilling systems, effectively solving the cooling problem using the exhaust of the power problem.__***
 
 **Economic and Margin Profile:**
 *   **High Moat & Pricing Power:** Management explicitly stated that for their unique data center solutions in the US, "once the application, we are able to prove the customer that from an engineering point of view, we can do what we say... then price is almost secondary and competition is also secondary".
@@ -944,3 +944,375 @@ Mixed. The order book (up 27%) justifies revenue optimism, but their optimism re
 
 **Final Verdict: Is Thermax building a premium industrial technology platform OR a cyclical EPC conglomerate?**
 Thermax is stuck in a painful metamorphosis. In its **Industrial Products and Data Center** verticals, it is genuinely operating as a premium, IP-driven technology platform with massive secular tailwinds. However, its **Green Solutions (FEPL)** and remaining **Industrial Infra** segments prove it is still shackled to the realities of a cyclical EPC company—bleeding working capital, suffering contractor failures, and eating cost overruns on delayed sites. The rerating is justified by the product side, but the cash flow reality is still being dragged down by the project side.
+
+---
+
+# Misc Information - Thermax Cooling & Data Center Solutions — Simple Explanation
+
+## 1. Vapour Absorption Chillers (VAC)
+
+### What is it?
+
+A Vapour Absorption Chiller is a machine that creates **cooling using heat instead of electricity**.
+
+Normally, an air conditioner uses a large electric compressor.
+A VAC replaces that compressor with a **heat-driven process**.
+
+Think of it like:
+
+> "Using fire or waste heat to make cold water."
+
+That cold water is then used to cool buildings or data centers.
+
+---
+
+### How does it work?
+
+A special liquid pair is used:
+
+* Water = cooling liquid
+* Lithium Bromide (salt-like chemical) = absorber
+
+### Simple Step-by-Step
+
+1. Heat is supplied from:
+
+   * steam
+   * hot water
+   * waste heat
+   * gas
+
+2. Water inside the system evaporates.
+
+   * Evaporation creates cooling.
+
+3. Lithium Bromide absorbs the water vapor.
+
+4. Heat removes the absorbed water again.
+
+5. The cycle repeats continuously.
+
+---
+
+### Why is this useful?
+
+Data centers produce huge amounts of heat.
+
+VAC systems are useful because they:
+
+* Use less electricity
+* Reuse waste heat
+* Reduce power bills
+* Work well in large industrial facilities
+
+---
+
+### Real-Life Analogy
+
+Imagine drying wet clothes using sunlight instead of an electric dryer.
+
+VAC systems similarly use available heat instead of consuming large electrical power.
+
+---
+
+## Where are they used?
+
+* Data centers
+* Airports
+* Large malls
+* Factories
+* Hospitals
+* District cooling systems
+
+---
+
+# 2. Hot Water Driven Chillers
+
+### What is it?
+
+This is a special type of Vapour Absorption Chiller.
+
+Instead of steam or direct fuel burning, it uses:
+
+* hot water from industrial plants
+* engine exhaust systems
+* gas turbines
+* waste heat recovery systems
+
+to create cooling.
+
+---
+
+### How does it work?
+
+#### Basic Idea
+
+Hot water carries energy.
+
+Instead of throwing that heat away, the chiller uses it to generate chilled water.
+
+#### Flow
+
+```text
+Hot Water → Chiller → Cooling Produced → Cold Water sent to data center
+```
+
+---
+
+### Why is this important for data centers?
+
+Modern AI data centers consume massive electricity.
+
+Many data centers now build:
+
+* gas power plants
+* captive generation systems
+* waste heat recovery systems
+
+Hot Water Driven Chillers allow them to:
+
+* recycle heat
+* improve energy efficiency
+* reduce electricity consumption
+
+---
+
+### Simple Analogy
+
+Imagine your laptop becoming hot.
+
+Instead of wasting that heat, imagine using that heat to cool another room.
+
+That is basically the idea.
+
+---
+
+# 3. Closed-Loop Cooling Towers
+
+### What is a Cooling Tower?
+
+A cooling tower removes heat from water.
+
+Hot water comes in.
+Cooler water goes out.
+
+This cooled water is reused again and again.
+
+---
+
+### What does “Closed-Loop” mean?
+
+In a closed-loop system:
+
+* the process water stays inside sealed pipes
+* outside air never directly touches the main cooling water
+
+This keeps the water:
+
+* cleaner
+* safer
+* less corrosive
+
+---
+
+### How does it work?
+
+#### Step-by-Step
+
+1. Hot water from servers enters coils/pipes.
+2. Air flows around the pipes.
+3. Water spray helps remove heat.
+4. Heat moves from the pipe water to outside air.
+5. Cooler water returns to the data center.
+
+---
+
+### Why is this useful?
+
+Data centers need:
+
+* very clean water
+* reliable cooling
+* minimal contamination
+
+Closed-loop systems help because:
+
+* less dirt enters the system
+* less maintenance is needed
+* equipment life improves
+
+---
+
+### Simple Analogy
+
+Think of placing a cold bottle inside a flowing river.
+
+The river cools the bottle without mixing with the water inside the bottle.
+
+That is similar to closed-loop cooling.
+
+---
+
+## 4. Adiabatic Cooling Towers
+
+### What is “Adiabatic” Cooling?
+
+Adiabatic cooling means:
+
+> Cooling air naturally through water evaporation.
+
+This is the same reason sweating cools your body.
+
+---
+
+### How does it work?
+
+#### Step-by-Step
+
+1. Hot outside air enters the cooling system.
+2. Water is sprayed or passed through wet pads.
+3. Some water evaporates.
+4. Evaporation absorbs heat from air.
+5. Cooler air is produced.
+6. This cooler air helps cool the data center water.
+
+---
+
+### Why is it useful?
+
+Compared to traditional cooling towers:
+
+* uses less water
+* saves electricity
+* works efficiently in hot climates
+* reduces environmental impact
+
+---
+
+### Why do data centers like this?
+
+AI servers create enormous heat.
+
+Adiabatic systems help reduce:
+
+* electricity usage
+* cooling costs
+* carbon emissions
+
+---
+
+### Simple Analogy
+
+When you come out of a swimming pool and wind blows on you, you feel cold.
+
+That cooling effect is adiabatic cooling.
+
+---
+
+## 5. Large Boilers / Steam Turbine Packages for Global Data Centers
+
+### What are Boilers?
+
+A boiler heats water to create:
+
+* steam
+* high-pressure hot water
+
+Large boilers are like giant industrial kettles.
+
+---
+
+### What is a Steam Turbine?
+
+Steam under high pressure spins turbine blades.
+
+The turbine then generates:
+
+* electricity
+* mechanical power
+
+---
+
+### Why are data centers using them?
+
+AI data centers need enormous power.
+
+Sometimes they consume electricity equal to a small city.
+
+Power grids alone may not be enough.
+
+So many global data centers now build:
+
+* captive power plants
+* gas-based power systems
+* combined heat and power systems
+
+---
+
+### How does the full package work?
+
+#### Simplified Flow
+
+```text
+Fuel / Gas
+      ↓
+Boiler creates steam
+      ↓
+Steam spins turbine
+      ↓
+Turbine generates electricity
+      ↓
+Electricity powers data center
+```
+
+Sometimes the leftover heat is also reused for cooling systems.
+
+This is called:
+
+### Cogeneration / Combined Heat & Power (CHP)
+
+---
+
+## Why is Thermax important here?
+
+Thermax provides:
+
+* industrial boilers
+* heat recovery systems
+* cooling systems
+* steam solutions
+* energy efficiency systems
+
+for very large industrial and infrastructure projects globally.
+
+---
+
+## Why Cooling is Becoming Extremely Important in AI Data Centers
+
+Modern AI chips from companies like:
+
+* NVIDIA
+* Advanced Micro Devices
+* Intel
+
+consume huge power and produce huge heat.
+
+Without advanced cooling:
+
+* servers slow down
+* chips get damaged
+* electricity bills rise massively
+
+That is why cooling companies are becoming critical in the AI era.
+
+---
+
+## Very Simple Summary Table
+
+| Technology                | Main Purpose                | Uses Electricity or Heat? | Key Benefit                     |
+| ------------------------- | --------------------------- | ------------------------- | ------------------------------- |
+| Vapour Absorption Chiller | Create cooling              | Mainly heat               | Saves electricity               |
+| Hot Water Driven Chiller  | Cooling using hot water     | Heat                      | Reuses waste heat               |
+| Closed-Loop Cooling Tower | Remove heat safely          | Fans + water              | Cleaner system                  |
+| Adiabatic Cooling Tower   | Natural evaporative cooling | Very low electricity      | Water & energy efficient        |
+| Boilers + Steam Turbines  | Generate electricity        | Fuel → Steam              | Reliable power for data centers |
