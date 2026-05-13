@@ -1051,22 +1051,31 @@ This business is suitable for **Long-Duration Order-Book Momentum**, but highly 
 
 **1. Does this company have a real economic moat?**
 Yes. High switching costs and proprietary "reusable" electronic building blocks form a legitimate moat.
+
 **2. Which moat is strongest?**
 Switching costs driven by platform integration (e.g., flight-qualified algorithms on fighter jets and missiles).
+
 **3. Is the moat strengthening or weakening?**
 It is shifting. Strengthening in strategic entrenchment, but weakening in margin power as they pivot to systems integration.
+
 **4. Is growth durable or cyclical?**
 Durable. The MoD's forced import-substitution mandate guarantees a multi-decade runway for indigenous IP.
+
 **5. Is management improving the business structurally?**
 Yes, by actively self-funding R&D to jump from being a DRDO subcontractor to a Tier-1 systems provider.
+
 **6. Can ROCE/ROE remain high for many years?**
 Returns will remain constrained in the mid-to-high teens. Capital employed will continuously bloat due to unavoidable inventory hoarding and slow receivable collections.
+
 **7. Does the company have long-duration compounding potential?**
 Yes, provided they successfully transition their massive R&D pipeline into repetitive production orders.
+
 **8. Is this business suitable for momentum investors?**
 Only for investors with a 2-3 year horizon who can stomach extreme quarterly volatility caused by episodic government inspection delays.
+
 **9. TOP reasons it may outperform:**
 (a) BrahMos seeker volume production, (b) Sukhoi-30 EW suite upgrades (TAM > INR 10,000 Cr), (c) Scaling exports to Europe to fix cash flow, (d) Repeat AMC revenues, (e) Operating leverage as R&D converts to mass manufacturing.
+
 **10. TOP reasons the thesis may fail:**
 (a) MoD delays flight trials indefinitely, (b) Working capital bloat forces the company to take on debt, (c) Entrenched PSUs undercut them on large system tenders, (d) Geopolitical supply chains for raw electronics are cut off.
 
