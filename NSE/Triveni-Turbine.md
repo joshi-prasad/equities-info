@@ -589,6 +589,60 @@ Earnings quality is flashing severe warning signs.
 
 ---
 
+# Data Center Opportunity
+
+### 1. THE AI & DATA CENTER NARRATIVE: WHAT IS THE ACTUAL BUSINESS PROPOSITION?
+
+Management is actively introducing the AI and Data Center theme to expand TTL's Total Addressable Market (TAM) narrative, particularly in the United States. However, TTL is not selling "AI technology." It is selling traditional thermal efficiency equipment for power generation.
+
+**The Core Economic Mechanism:**
+*   **The Problem:** AI data centers are highly power-hungry and face grid constraints. To guarantee uptime, developers in the U.S. are increasingly building captive power plants, typically using simple-cycle gas turbines.
+*   **The Inefficiency:** A simple-cycle gas turbine wastes massive amounts of heat and operates at only 30% to 35% thermal efficiency.
+*   **Triveni’s Solution (The Bottoming Cycle):** To lower the cost of power, developers are exploring Combined Cycle Gas Turbines (CCGT). TTL provides the steam turbine that captures the waste heat from the gas turbine exhaust to generate additional power.
+*   **The Conversion Ratio:** The mechanical requirement dictates that for every 3 MW of gas turbine capacity, roughly 1 MW of steam turbine capacity is required. This creates a direct, albeit derivative, addressable market for TTL.
+
+### 2. ECONOMIC REALITY VS. MANAGEMENT NARRATIVE
+
+For a 6–12 month momentum investor, it is critical to separate the *enquiry pipeline* from *cash-generating execution*.
+
+**A. The Enquiry Surge (The Bullish Signal)**
+*   The U.S. market has seen a massive surge in interest. Management noted that North American enquiries grew by nearly 1000%, bringing the U.S. share of the total enquiry book from 1–2% up to roughly 15%.
+*   Within this specific segment, data center applications contribute to a "significant portion" (well in excess of half) of that specific enquiry pipeline.
+
+**B. The Execution Reality (The Ground Truth)**
+*   **Zero Near-Term Revenue Impact:** When pressed on immediate financial impact, management explicitly admitted that these orders will take much longer to finalize than standard industrial orders.
+*   **Structural Bottlenecks:** CCGT operations require significant amounts of water for cooling. Management acknowledged that obtaining water permits and regulatory approvals in the U.S. takes a very long time, inherently delaying order conversion.
+*   **Maximum Upside Capped:** Even in a scenario where *all* current data center and U.S. combined-cycle enquiries fructify into hard orders, management stated it would not exceed 20% of TTL's total order book.
+
+### 3. HOW INSTITUTIONAL ANALYSTS PROBED THE NARRATIVE
+
+The institutional buyside aggressively questioned this theme during the FY26 Q3 and Q4 calls, searching for immediate estimate revision potential. Management’s responses were notably cautious, which adds credibility but confirms the theme is not a near-term earnings driver.
+
+**Key Institutional Questions & Management Pushback:**
+
+*   **Question on Market Evolution (Shrinidhi Karlekar, ASK Investment Managers):** Asked if the data center market will largely remain simple-cycle or evolve into combined-cycle.
+    *   *Management Reality Check:* Acknowledged that 70% to 80% of the sub-100MW market globally remains simple-cycle due to water scarcity. Combined-cycle will only be adopted in locales where water permits are viable.
+*   **Question on Sizing and TAM (Nitin Arora, Axis Mutual Fund & Saif Sohrab Gujar, ICICI Prudential):** Pressed for the exact quantum of these data center orders and whether this represents a "bigger TAM opportunity".
+    *   *Management Reality Check:* Admitted the opportunity expands the TAM significantly (up to 15% of the enquiry book), but explicitly warned investors not to expect immediate translation into P&L due to long gestation and permitting timelines.
+*   **Question on Pricing Power & Margins (Harshita, UBS):** Asked if TTL could expect margin expansion or "pricing tailwinds" similar to other hyperscaler/data center-linked suppliers.
+    *   *Management Reality Check:* Firmly shut down the idea of hyperscaler margin premiums. Management stated: "we're not looking at margin expansion or pricing increase disproportionate to what is available... what's more important is to get a sustainable entry into the space".
+
+### 4. KEY INVESTOR INSIGHTS & RISK ANALYSIS
+
+**1. Narrative Drift for Multiple Expansion:**
+The introduction of the AI Data Center narrative in late FY26 appears to be a strategic move to justify valuation multiples as the base industrial business becomes harder to scale. While the traditional industrial capex cycle (steel, cement) continues to pay the bills, the AI narrative provides the "terminal value" story for the stock.
+
+**2. Earnings Momentum Impact (None for Next 2-4 Quarters):**
+For a momentum investor with a 6-12 month horizon, the AI Data Center business is **financially immaterial today**. It will not drive near-term ROCE, operating leverage, or absolute EBITDA. The actual economic engine supporting earnings momentum remains the export pricing arbitrage, the 32%+ aftermarket mix, and standard domestic industrial capex.
+
+**3. Execution Complexity Risk:**
+Data center CCGT projects are highly complex, multi-stakeholder EPC projects. Given TTL’s recent struggles with delayed mechanical run tests (MRTs) and physical inspections on standard export orders, executing highly scrutinized U.S. data center orders will likely introduce even greater execution volatility and working capital intensity (elongated debtor days) in the future.
+
+**Conclusion:**
+Management is successfully generating a massive enquiry pipeline from the U.S. data center boom. However, institutional investors should treat this entirely as "free optionality." The bullish operational thesis over the next 4 quarters relies strictly on the stabilization of standard export dispatches and the conversion of the traditional API pipeline, not AI data centers.
+
+---
+
 # KPI Dashboard (6–12 Month Momentum Framework)
 
 | KPI                                | Why It Matters                    | Bullish Signal                | Warning Signal              |
