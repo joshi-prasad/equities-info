@@ -333,6 +333,7 @@ The business has immense latent operating leverage. Because R&D, compliance (AS9
 
 **Notes:**
 - What operational events would prove Apollo is becoming a scalable weapon platform company?
+
 | Transition Requirement        | Status                   |
 | ----------------------------- | ------------------------ |
 | electronics capability        | proven                   |
@@ -652,3 +653,46 @@ Apollo is a high-risk, high-reward proxy on Indian defence indigenization. If ma
 - Incremental ROCE ≈ 8.9%. The new capital deployed has NOT yet become economically productive. Apollo is investing ahead of commercialization, not after commercialization.
 - Investment thesis depends almost entirely on: whether the company can convert its massive balance-sheet buildout into serial production economics.
 - Today, Apollo is essentially a leveraged bet on future production conversion. The company has already built facilities, raised capital aggressively, acquired IDL, and structurally increased fixed costs.  Now commercialisation MUST begin to justify this balance sheet expansion. This is precisely the transition phase where **momentum can become explosive** or **expectation gaps can become dangerous**.
+
+-----------
+
+# Misc Information
+
+## Products
+
+| Technology Stack | What Apollo Builds                                  | Value Added     |
+| ---------------- | --------------------------------------------------- | --------------- |
+| **Computing**    | On-board computers, DSPs, mission computers         | Brain           |
+| **Sensing**      | Seeker processors, radar/sonar electronics          | Eyes & ears     |
+| **Control**      | Guidance electronics, interface units, fire control | Nervous system  |
+| **Power**        | Power supplies, converters, battery systems         | Energy          |
+| **Integration**  | Complete weapon systems (emerging)                  | Entire platform |
+
+## Complete Weapon Systems
+
+**Current:**
+```
+Missile
+│
+├── Electronics  ← Apollo
+├── Warhead      ← Someone else
+├── Motor        ← Someone else
+├── Integration  ← BEL/BDL
+```
+
+**Ambition:**
+```
+Complete weapon
+
+Electronics
+Warhead
+Explosives
+Integration
+Assembly
+
+↓
+
+Apollo
+```
+
+The IDL Explosives acquisition provides access to explosives and propellants, while new manufacturing facilities and licences are intended to enable assembly of complete systems such as aerial bombs, rockets, torpedoes, loitering munitions, and moored mines. This strategic transition is real, but its commercial success remains to be proven.
