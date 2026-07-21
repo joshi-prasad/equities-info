@@ -1,5 +1,37 @@
 # Comparing Textile Companies
 
+Indian textile manufacturers face several structural and operational challenges that hinder their ability to secure a larger global market share. While macroeconomic conditions like the "China+1" strategy are favorable, the sources identify the following core problems:
+
+### 1. The "Garmenting Gap" and Lack of Scale
+The most significant structural weakness is the **fragmented and sub-scale** nature of garment manufacturing.
+*   **Missing Downstream Link:** India has a strong "engine" (upstream capabilities in fibre, spinning, and weaving) but lacks the "vehicle" (downstream garmenting) to capture high-value addition.
+*   **Sub-optimal Units:** The industry is dominated by small, dispersed factories that lack the management depth and automation found in the massive integrated campuses of China, Vietnam, and Bangladesh. This fragmentation makes it difficult to service large-scale global programs.
+
+### 2. Low Labor Productivity
+Despite having a wage advantage, India struggles with **lower output per worker** compared to competitors.
+*   **Productivity Disadvantage:** China and Vietnam remain competitive despite higher wages because their factories utilize better line balancing, industrial engineering, and automation.
+*   **Metric Shift:** Global buyers increasingly prioritize the **conversion cost per garment** rather than just the hourly wage rate.
+
+### 3. Raw Material Limitations
+India’s traditional reliance on cotton is no longer sufficient to meet evolving global demand.
+*   **The MMF Gap:** India lacks sophisticated **Man-Made Fibres (MMF)**, such as high-performance polyester and functional yarns used in athleisure and technical textiles. This forces manufacturers to rely on imports, extending lead times and increasing costs.
+*   **Cotton Productivity:** India’s cotton yields have plateaued, and the industry faces challenges with **inconsistent fibre quality** and post-harvest contamination.
+
+### 4. Fragmented Ecosystem and Logistics
+The various stages of the Indian textile value chain—from cotton farming to garmenting—often function at **"different speeds"**.
+*   **Coordination Costs:** Because these individual segments (spinning, weaving, processing) are not well-integrated, the industry faces higher coordination costs and slower responsiveness to global brands.
+*   **Infrastructure Hurdles:** Compared to China, India faces higher internal transport costs, lower shipping frequencies, and longer export turnaround times.
+
+### 5. Labor Instability
+Manufacturing hubs in southern and western India are heavily dependent on **migrant workers**, leading to significant operational volatility.
+*   **High Turnover:** The industry faces double-digit monthly attrition and seasonal absenteeism during festivals or agricultural cycles.
+*   **Recruitment Costs:** Frequent turnover leads to high recruitment and training costs, preventing the development of a stable, highly skilled workforce.
+
+### 6. New Compliance Moats: Sustainability and Traceability
+Global brands now view technology and sustainability as **commercial prerequisites** rather than optional extras.
+*   **Traceability Requirements:** New regulations like **Digital Product Passports (DPPs)** require manufacturers to provide verifiable digital records of a product's entire lifecycle.
+*   **Environmental Standards:** Buyers are increasingly evaluating suppliers on renewable energy usage and water recycling, areas where smaller Indian manufacturers struggle to invest.
+
 ---
 
 # Manufacturing Position
