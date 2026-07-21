@@ -49,9 +49,7 @@ Today the business operates through four distinct economic engines.
 
 The company should therefore not be viewed simply as a winding wire manufacturer.
 
-Instead, KSH is becoming:
-
-**An engineering platform that converts accumulated manufacturing expertise, qualification history and customer trust into progressively higher-value electrical conductor businesses while continuously improving operating leverage and capital efficiency.**
+Instead, KSH is becoming: **An engineering platform that converts accumulated manufacturing expertise, qualification history and customer trust into progressively higher-value electrical conductor businesses while continuously improving operating leverage and capital efficiency.**
 
 ---
 

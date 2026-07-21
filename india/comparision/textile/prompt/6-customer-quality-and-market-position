@@ -1,0 +1,27 @@
+# Customer Quality & Market Position
+
+Compare all companies in this notebook ONLY on the quality and strength of their customer base.
+
+For each company, identify only:
+
+• Major customers or global brands served
+• Customer diversification (one short phrase)
+• Customer concentration (if disclosed)
+• Evidence of long-term customer relationships or preferred supplier status
+• Ability to acquire new customers or enter new markets
+• Management's customer strategy (one short phrase)
+
+Do NOT evaluate companies.
+
+Do NOT rank companies.
+
+Do NOT discuss manufacturing, productivity, FTAs, MMF, sustainability, labour, margins or capital allocation.
+
+If no evidence is available, explicitly state "No evidence found."
+
+Return ONLY the following table.
+
+| Company | Major Customers / Brands | Customer Diversification | Customer Concentration | Long-term Relationships | New Customer Wins | Customer Strategy |
+|---------|---------------------------|--------------------------|------------------------|--------------------------|-------------------|-------------------|
+
+Keep every cell to one short sentence or phrase.
