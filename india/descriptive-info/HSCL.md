@@ -1,3 +1,117 @@
+# FY27 Q1 Update
+
+## Financial Highlights
+
+HSCL reported its strongest quarterly performance to date.
+
+| Metric | Q1 FY27 | YoY Growth |
+|---------|---------|-----------:|
+| Revenue | ₹1,432 Cr | +28% |
+| EBITDA | ₹313 Cr | +33% |
+| EBITDA Margin | 22% | +100 bps |
+| PAT | ₹228 Cr | +27% |
+| PAT Margin | 16% | Flat |
+
+The key takeaway was that profitability continued to improve despite lower sales volumes, reinforcing management's strategy of prioritising value-added products over commodity volumes.
+
+---
+
+## Key Developments
+
+### 1. Carbon Nanotubes (CNT)
+
+The biggest announcement during the quarter was Himadri's entry into Carbon Nanotubes (CNT).
+
+- First commercial CNT manufacturing facility in India.
+- Indigenous technology developed through in-house R&D.
+- 200 MTPA capacity with ₹70 Cr capex.
+- Commercial production targeted for Q4 FY27.
+
+Management believes CNT opens a new speciality materials platform with applications in lithium-ion batteries, semiconductors, electronics, conductive coatings, aerospace and advanced composites. The company estimates the current global market at roughly 30,000 MTPA and intends to primarily serve international customers.
+
+---
+
+### 2. Super Speciality Carbon Black (SSCB)
+
+HSCL also announced its entry into Super Speciality Carbon Black.
+
+- Existing carbon black capacity will be converted into 6,000 MTPA SSCB.
+- ₹170 Cr capex.
+- Commercialisation targeted for Q4 FY28.
+
+Unlike conventional speciality carbon black, SSCB targets niche, high-purity applications including lithium-ion batteries, engineered plastics, conductive materials, coatings and fibres. Management expects substantially higher realisations and margins than existing speciality carbon black.
+
+---
+
+## Battery Materials Progress
+
+The battery materials roadmap continues to progress largely as planned.
+
+- 200 MTPA anode material facility commissioned in April 2026 and currently being used for customer qualification.
+- LFP Cathode Phase-1 (2,000 MTPA) remains on track for Q3 FY27.
+- IBC stake increased to 19.44%.
+- Sicona secured AUD 45 million funding to accelerate commercialisation of silicon-carbon anodes.
+
+Importantly, there were no major execution delays announced during the quarter.
+
+---
+
+## Birla Tyres
+
+The turnaround continues to progress gradually.
+
+- Distribution expanded to 49 distributors and over 1,000 dealers.
+- OTR tyre strategy continues.
+- PCR facility remains targeted for FY28.
+- Management expects Birla Tyres to become EBITDA breakeven during FY27 while continuing to target ₹3,000 Cr revenue over the next 4–5 years.
+
+---
+
+## Management Narrative
+
+This quarter marked a subtle but important evolution in management messaging.
+
+Instead of positioning Himadri primarily as a battery materials company, management increasingly described the company as a **global advanced materials and application-driven solutions company**.
+
+The business is now presented as three complementary growth platforms:
+
+1. **Core Carbon Platform**
+   - Coal tar derivatives
+   - Carbon black
+   - Feedstock integration
+
+2. **Speciality Materials**
+   - Speciality carbon black
+   - Super Speciality Carbon Black
+   - Carbon Nanotubes
+   - Anthraquinone
+   - Carbazole
+
+3. **New Energy Materials**
+   - Anode materials
+   - LFP cathode materials
+   - Silicon-carbon technologies
+
+This positioning broadens the investment thesis beyond batteries and reinforces management's strategy of driving earnings growth through progressively higher-value speciality materials.
+
+---
+
+## Investment Thesis Update
+
+### Positive
+
+- Record profitability despite lower volumes validates the shift toward value-added products.
+- CNT and SSCB further strengthen HSCL's speciality materials portfolio.
+- Battery materials execution remains broadly on schedule.
+- All announced capex continues to be funded through internal accruals.
+
+### Watch
+
+- Customer qualification and commercial ramp-up of anode materials.
+- Commissioning of the first LFP cathode facility in Q3 FY27.
+- Execution of CNT and SSCB projects.
+- Birla Tyres reaching sustainable profitability.
+
 **Date:** 15 June 2026
 ---
 
