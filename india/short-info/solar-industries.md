@@ -1,4 +1,4 @@
-**Date:?** 4 July 2026
+**Date:** 4 July 2026
 ---
 # Solar Industries India Ltd. – Investment Summary
 
