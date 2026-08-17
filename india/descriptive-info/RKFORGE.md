@@ -2183,5 +2183,3 @@ Two consecutive quarters show some combination of:
 ## Final RKFORGE FY27 Thesis in One Line
 
 > **The FY27 question is no longer whether RKFORGE can build capacity or win orders; it is whether it can convert the capacity and programmes already created into accelerating EBITDA, cash flow, ROCE and debt reduction.**
-
-That single sentence is what I would use to interpret the six dashboard items when Q2 and Q3 arrive.
