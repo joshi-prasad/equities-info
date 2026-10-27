@@ -4,11 +4,7 @@
 
 ---
 
-## Executive Summary & Analytical Intent
-
-This analysis deconstructs **Sansera Engineering Ltd. (Sansera)** strictly according to the first-principles framework established in *1-business-model*. The objective is to isolate the economic engine, commercial mechanisms, manufacturing complexity, and operational transitions of the company without relying on management jargon, generic industry descriptions, or unverified claims.
-
----
+# Business Model
 
 ## 1. What Does Sansera Actually Do?
 
@@ -816,7 +812,7 @@ In both the **Q4 FY26** and **Q1 FY27 earnings calls**, management did **not** a
 
 ---
 
-# Maagements Mental Model
+# Managements Mental Model
 
 ### **1. How Does Management Think? (Recurring Mental Models)**
 
