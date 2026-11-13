@@ -504,3 +504,12 @@ Management’s perspective balances inventory rationalization against the operat
 # Financial Analysis
 
 https://docs.google.com/spreadsheets/d/1QYVkB9r6xx8D6S8PeSk-455j27bvgWy_6Rx6jeassA8/edit?gid=1695424859#gid=1695424859
+
+
+What I would track going forward
+1. Inventory days: Sustained reduction
+2. Receivable days: Stable or declining
+3. Payable days: No excessive stretching
+4. OCF/EBITDA: Consistently above 70%
+5. Free cash flow: Positive after growth capex
+6. Gross margin: Stable after inventory replenishment
