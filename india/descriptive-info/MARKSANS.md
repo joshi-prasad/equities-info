@@ -467,3 +467,40 @@ During the Q2FY27 earnings conference call and investor presentation, management
 10. The Rest of the World and Middle East business struggled through the first half with a steep revenue contraction caused by Red Sea transit disruptions and ongoing regional conflict.
 
 ---
+
+### Context on Working Capital and Inventory Levels
+
+In the FY26 reporting period, Marksans Pharma's working capital and inventory metrics were elevated:
+* **Consolidated Inventory Days:** Stood at **260 days in FY26** (up from 234 days in FY25).
+* **Working Capital Cycle:** The CareEdge credit rating report noted that the working capital cycle elongated to **181 days in FY26** (from 163 days in FY25), driven primarily by higher inventory holding for new product launches.
+
+---
+
+### Management’s View & Actions to Improve Cash Conversion Cycle (CCC)
+
+Management views working capital rationalization as an active priority and has demonstrated ongoing reductions in its cash cycle through FY27:
+
+1. **Measurable Reduction in Working Capital Days:**
+   * In the Q1FY27 and Q2FY27 earnings calls, Group CFO Jitendra Sharma highlighted that the working capital cycle improved from **159 days in Q1FY26** to **138 days for full-year FY26**, dropping further to **~132 days in Q1FY27**, and reaching **~128 days in H1FY27**.
+
+2. **Substantial Expansion in Cash Conversion Efficiency:**
+   * Management tracks cash conversion through **Operating Cash Flow (OCF) as a percentage of EBITDA**.
+   * In H1FY27, this conversion rate improved to **75.2%** (compared to **30.7%** in H1FY26).
+   * Operating cash flow expanded 4.3x year-on-year to **₹322 crore in H1FY27** (up from ₹75 crore in H1FY26), generating **₹275 crore in free cash flow** after capital expenditures.
+
+---
+
+### Management’s View & Strategy on Inventory Holding
+
+Management’s perspective balances inventory rationalization against the operational demands of its store-brand OTC retail model:
+
+* **Deliberate Inventory Unwinding:** During the Q1FY27 conference call, management confirmed that the meaningful reduction in working capital days was driven by active inventory unwinding. Management noted that the company had built up a substantial low-cost inventory buffer, which it steadily depleted through H1FY27, helping expand gross margins before higher raw material replenishment costs took effect.
+* **Safeguarding Business Continuity & Service Levels:** Management explicitly emphasizes maintaining prudent inventory levels of critical raw materials to protect against geopolitical volatility, shipping delays, and transit disruptions (such as vessel blockages in the Red Sea). Because Marksans supplies store-brand OTC formulations to major retail chains (e.g., Walmart, Walgreens, CVS), timely product availability is essential to preserve customer stickiness and avoid supply penalties.
+* **Support for High Launch Velocity:** CareEdge and company disclosures note that elevated inventory holding is partly structural to support the commercial rollout of **20–25 new products and dozens of new SKUs annually** across North America, the UK, Australia, and Continental Europe.
+* **Digital Forecasting & Process Controls:** In its Annual Report disclosures, management noted that it is deploying digital supply chain tracking and real-time inventory monitoring solutions to streamline operations, enhance forecasting accuracy, and eliminate redundancies in inventory flows across international networks.
+
+---
+
+# Financial Analysis
+
+https://docs.google.com/spreadsheets/d/1QYVkB9r6xx8D6S8PeSk-455j27bvgWy_6Rx6jeassA8/edit?gid=1695424859#gid=1695424859
